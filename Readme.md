@@ -12,37 +12,37 @@
  
 
 #### Index page - Shows all the images in the gallary
- <img src="screenshots_g/landing_page.png" width="300">
+ <img src="screenshots_g/landiing_page.png" width="500" height="300">
 
 #### Admin page - Login 
- <img src="screenshots_g/login_creds.png" width="300">
+ <img src="screenshots_g/login_creds.png" width="500">
 
 #### Admin page - After Login Dashboard : 
- <img src="screenshots_g/admin_dashboard.png" width="300">
+ <img src="screenshots_g/admin_dashboard.jpg" width="500">
 
 #### Admin page - users 
- <img src="screenshots_g/user_default.png" width="300">
+ <img src="screenshots_g/user_default.jpg" width="500">
 
 #### Admin page - users => create new 
- <img src="screenshots_g/user_create.png" width="300">
+ <img src="screenshots_g/user_create.jpg" width="500">
 
 #### Admin page - users => edit 
- <img src="screenshots_g/user_edit.png" width="300">
+ <img src="screenshots_g/user_edit.jpg" width="500">
 
 #### Admin page - users => delete
- <img src="screenshots_g/user_delete.png" width="300">
+ <img src="screenshots_g/user_delete.jpg" width="500">
 
 #### Admin page - Upload 
- <img src="screenshots_g/upload.png" width="300">
+ <img src="screenshots_g/upload.jpg" width="500">
 
 #### Admin page - All Photos 
- <img src="screenshots_g/all_photos.png" width="300">
+ <img src="screenshots_g/all_photos.jpg" width="500">
 
 #### Admin page - Edit Photo details
- <img src="screenshots_g/photo_edit.png" width="300">
+ <img src="screenshots_g/photo_edit.jpg" width="500">
 
 #### Admin page - Add Comment on Photo 
- <img src="screenshots_g/photo_comment_add.png" width="300">
+ <img src="screenshots_g/photo_comment_add.jpg" width="500">
 
 #### Admin page - All comments
- <img src="screenshots_g/all_comments.png" width="300">
+ <img src="screenshots_g/all_comments.jpg" width="500">
